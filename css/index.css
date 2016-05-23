@@ -1,0 +1,87 @@
+/* GLOBAL STYLES */
+html,
+body {
+  height: 100%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "EB Garamond";
+  colour: #000000
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Lato";
+  font-weight: 700;
+  margin: 0;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+header,
+main,
+nav {
+  padding: 20px 30px;
+}
+
+main {
+  clear: both;
+}
+
+
+/* HEADER STYLES */
+header h1 {
+  font-size: 64px;
+  padding-top: 48px;
+}
+
+header h2 {
+  font-size: 36px;
+  padding-top: 24px;
+}
+
+header h3 {
+  font-size: 36px;
+  padding: 48px;
+}
+
+header {
+  text-align: center;
+}
+
+nav {
+  text-align: right;
+  background-color: black;
+}
+
+nav a {
+  padding: 20px;
+  color: white;
+}
+
+.page-wrap {
+  min-height: 100%;
+  margin-bottom: -55px;
+}
+
+footer,
+.page-wrap:after {
+  height: 55px;
+}
+
+footer p {
+  background: rgba(255, 255, 255, 0.8);
+  font-family: "EB Garamond";
+  text-align: center;
+  padding: 1px;
+}
