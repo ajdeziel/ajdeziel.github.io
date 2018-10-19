@@ -1,4 +1,4 @@
-/* GLOBAL STYLES */
+/* Global styles */
 html,
 body {
     height: 100%;
@@ -47,7 +47,7 @@ main {
     clear: both;
 }
 
-/* HEADER STYLES */
+/* Header styles */
 header h1 {
     font-size: 50px;
     font-weight: bold;
@@ -70,6 +70,7 @@ header {
     overflow: hidden;
 }
 
+/* Nav tag styles */
 nav {
     text-align: center;
     background-color: transparent;
@@ -80,6 +81,7 @@ nav a {
     color: black;
 }
 
+/* List styles */
 ul {
     list-style-type: none;
     margin: 0;
@@ -90,6 +92,7 @@ li {
     display: inline-block;
 }
 
+/* A tag styles */
 a.btn-icons,
 a.btn-icons:hover,
 a.btn-icons:focus {
@@ -98,13 +101,13 @@ a.btn-icons:focus {
     padding: .75rem 1.25rem;
 }
 
+/* Navigation bar styles */
 .topnav {
     display: block;
     background-image: url(../images/background-cover.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 75%;
-    /*opacity: 0.7;*/
 }
 
 .topnav-options {
@@ -112,7 +115,7 @@ a.btn-icons:focus {
     display: inline-block;
 }
 
-/* Style the links inside the navigation bar */
+/* Navigation bar link style */
 .topnav a {
     float: left;
     display: block;
@@ -123,27 +126,23 @@ a.btn-icons:focus {
     font-size: 20px;
 }
 
-/* Change the color of links on hover */
+/* Change the colour of links on hover */
 .topnav a:hover {
     color: #ddd;
     text-decoration: none;
 }
 
-/* Add an active class to highlight the current page */
-/*.active {*/
-    /*background-color: #afafaf;*/
-    /*color: black;*/
+/*!* Hide hamburger topnav menu unless mobile *!*/
+/*.topnav .icon {*/
+    /*display: none;*/
 /*}*/
 
-/* Hide the link that should open and close the topnav on small screens */
-.topnav .icon {
-    display: none;
-}
-
+/* Intro header style */
 .intro {
     background-color: #fcfcf9;
 }
 
+/* Info column styles */
 .info-block {
     padding-top: 20px;
 }
@@ -184,9 +183,9 @@ a.btn-icons:focus {
 
 .page-wrap {
     min-height: 100%;
-    /*margin-bottom: -55px;*/
 }
 
+/* Footer styles */
 footer,
 .page-wrap:after {
     height: 55px;
@@ -200,6 +199,7 @@ footer p {
     padding: 30px;
 }
 
+/* Responsive web style */
 @media screen and (max-width: 600px) {
     .info-column {
         width: 100%;
