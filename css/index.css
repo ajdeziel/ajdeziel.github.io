@@ -149,8 +149,7 @@ a.btn-icons:focus {
 }
 
 .info-column#coding {
-    /*#TODO: Add coding background image*/
-    color: #0783ff;
+    color: #000000;
     display: inline-block;
     background-image: url("../images/coding-cover-1.jpg");
     background-repeat: no-repeat;
@@ -162,7 +161,7 @@ a.btn-icons:focus {
     /*#TODO: Add photography background image*/
     color: #fcef02;
     display: inline-block;
-    background-image: url("../images/clouded-thoughts.jpg");
+    background-image: url("../images/photography-cover.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
