@@ -1,3 +1,15 @@
-# ajdeziel.github.io
+# Personal Website / Portfolio
 
-Source code for personal website
+#### Available to view at [heyaj.ca](http://heyaj.ca/)
+
+#### Website currently under development
+
+Source code for my personal website
+
+
+### To Do List
+1.  Convert links to buttons with Hover.css (in progress)
+    * Redesign initial landing page
+    * Add buttons in a tile style layout
+    
+2.  Migrate from GitHub Pages to AWS
