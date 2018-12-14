@@ -7,7 +7,7 @@
 Source code for my personal website
 
 
-### To Do List
+## To Do List
 1.  Convert links to buttons with Hover.css (in progress)
     * Redesign initial landing page
     * Add buttons in a tile style layout
