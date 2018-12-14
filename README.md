@@ -2,7 +2,7 @@
 
 #### Available to view at [heyaj.ca](http://heyaj.ca/)
 
-#### Website currently under development
+#### Status: _Under development_
 
 Source code for my personal website
 
