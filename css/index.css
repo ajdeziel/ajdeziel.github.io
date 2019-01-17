@@ -174,7 +174,7 @@ a.btn-icons:focus {
 
 .info-column#photography {
     /*#TODO: Add photography background image*/
-    color: #fcef02;
+    color: #ffffff;
     display: inline-block;
     background-image: url("../images/photography-cover.jpg");
     background-repeat: no-repeat;
