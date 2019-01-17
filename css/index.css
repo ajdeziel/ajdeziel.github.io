@@ -104,7 +104,7 @@ a.btn-icons:focus {
 /* Navigation bar styles */
 .topnav {
     display: block;
-    background-image: url(../images/background-cover.jpg);
+    background-image: url(../images/background-cover-min.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 75%;
@@ -166,7 +166,7 @@ a.btn-icons:focus {
 .info-column#coding {
     color: #ffffff;
     display: inline-block;
-    background-image: url("../images/coding-cover.jpg");
+    background-image: url("../images/coding-cover-min.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -176,7 +176,7 @@ a.btn-icons:focus {
     /*#TODO: Add photography background image*/
     color: #ffffff;
     display: inline-block;
-    background-image: url("../images/photography-cover.jpg");
+    background-image: url("../images/photography-cover-min.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
