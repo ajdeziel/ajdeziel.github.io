@@ -1,6 +1,6 @@
 # Personal Website / Portfolio
 
-#### Available to view at [heyaj.ca](http://heyaj.ca/)
+#### Available to view at [ajdeziel.ca](http://ajdeziel.ca/)
 
 #### Status: _Under development_
 
